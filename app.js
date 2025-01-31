@@ -9,7 +9,7 @@ const axios = require("axios");
 
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: "https://reac-tube-eight.vercel.app/",
   })
 );
 
